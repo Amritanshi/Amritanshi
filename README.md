@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:00d4ff&height=250&section=header&text=Amritanshi&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cloud%20Computing%20Engineer%20%7C%20Builder%20of%20Scalable%20Systems&descAlignY=58&descSize=20&descColor=a0d8ef" width="100%" />
@@ -31,15 +31,12 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    &nbsp; About Me
-  </h2>
+  <h2>👋 &nbsp; About Me</h2>
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```yaml
 Name      : Amritanshi Gupta
@@ -135,7 +132,7 @@ Fun Fact  : I debug clouds at 3AM and still love it ☁️
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritanshi&theme=tokyonight&hide_border=false&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0f2027&border=00d4ff30&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Amritanshi&theme=tokyonight&hide_border=false&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0f2027&border=00d4ff30&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
