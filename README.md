@@ -63,7 +63,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320" />
 
 </td>
 </tr>
@@ -397,11 +397,7 @@ HTML · CSS · JavaScript                             ████████�
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amritanshi/Amritanshi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amritanshi/Amritanshi/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Amritanshi/Amritanshi/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/00b4d8/Amritanshi" alt="Amritanshi Contribution Chart" width="96%" />
 
 <br/><br/>
 
