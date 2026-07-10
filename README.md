@@ -232,23 +232,7 @@
 ---
 
 <div align="center">
-<h2>GITHUB STATS</h2>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amritanshi&theme=dracula" width="96%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amritanshi&theme=dracula" width="46%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amritanshi&theme=dracula" width="46%" />
-
+<h2>GITHUB ACTIVITY</h2>
 </div>
 
 <br/>
