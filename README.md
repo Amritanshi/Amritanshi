@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1f35,60:0f3460,100:00b4d8&height=280&section=header&text=AMRITANSHI%20GUPTA&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=e0f7fa&desc=Data%20%26%20AI%20Engineer%20%E2%80%82%7C%E2%80%82%20Computer%20Vision%20Specialist%20%E2%80%82%7C%E2%80%82%20B.Tech%20CSE&descAlignY=58&descSize=17&descColor=90e0ef" width="100%" />
 
@@ -63,7 +63,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
 </td>
 </tr>
@@ -258,9 +258,15 @@ HTML · CSS · JavaScript                             ████████�
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Amritanshi&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&border_color=0f3460&border_radius=12&hide_border=false" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritanshi&layout=compact&langs_count=8&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&border_color=0f3460&border_radius=12" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amritanshi&theme=github_dark" width="96%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amritanshi&theme=github_dark" width="46%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amritanshi&theme=github_dark" width="46%" />
 
 </div>
 
