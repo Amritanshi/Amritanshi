@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,80:4c1d95,100:7c3aed&height=280&section=header&text=AMRITANSHI%20GUPTA&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=f0e6ff&desc=Data%20%26%20AI%20Engineer%20%7C%20Computer%20Vision%20Specialist%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=17&descColor=c4b5fd" width="100%" />
-
 
 <br/>
 
@@ -28,8 +24,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:7c3aed&height=3&section=header" width="100%"/>
-<h2><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=A78BFA&center=true&vCenter=true&width=200&lines=ABOUT+ME" alt="About Me"/></h2>
+<h2>ABOUT ME</h2>
 </div>
 
 ```
@@ -390,8 +385,11 @@
 > *"Data is not just numbers — it is stories waiting to be told.*
 > *I annotate, analyze, and visualize until every pixel speaks."*
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0a0a0f&height=130&section=footer&text=Thank+you+for+visiting.+Drop+a+star+if+this+profile+inspired+you.&fontSize=14&fontColor=f0e6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+---
+
+<div align="center">
+<sub>Thank you for visiting — drop a star if this profile inspired you.</sub>
+</div>
 
 </div>
